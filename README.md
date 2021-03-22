@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/vshetty-admin/vshetty-admin/_apis/build/status/HemkantCCMLLC.ContosoAir?branchName=master)](https://dev.azure.com/vshetty-admin/vshetty-admin/_build/latest?definitionId=2&branchName=master)
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
